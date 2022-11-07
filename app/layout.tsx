@@ -1,5 +1,6 @@
 import './globals.css'
 import "@arco-design/web-react/dist/css/arco.css";
+import * as echarts from 'echarts';
 export default function RootLayout({
   children,
 }: {
