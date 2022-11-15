@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import { AiFillCar } from 'react-icons/ai'
 import { MdLocalParking } from 'react-icons/md'

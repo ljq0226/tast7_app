@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@arco-design/mobile-react": "^2.22.2",
     "@arco-design/web-react": "^2.41.1",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
